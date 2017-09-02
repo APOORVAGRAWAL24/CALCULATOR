@@ -1,0 +1,20 @@
+#opr { 
+   -fx-background-color: orange; 
+   -fx-text-fill: white; 
+}
+#num { 
+   -fx-background-color: grey; 
+   -fx-text-fill: white; 
+}
+.VBox { 
+   -fx-background-color: darkgray; 
+   -fx-text-fill: white; 
+}
+#result { 
+   -fx-border-color: black; 
+   -fx-text-fill: black; 
+}
+VBox { 
+   -fx-background-color: lightgray; 
+    
+}
